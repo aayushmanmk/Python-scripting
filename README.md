@@ -9,5 +9,6 @@ while(x<11):
 ```
 
 output:
+
 ![image](https://user-images.githubusercontent.com/124895858/220121086-8b931e65-f73f-43ae-bdfb-12ef40cb9cd0.png)
 ---
